@@ -1,0 +1,7 @@
+{
+  "name": "Safety Check",
+  "description": "A personal safety application with interval check-ins, emergency contacts, and end-to-end encryption.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
